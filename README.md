@@ -1,3 +1,14 @@
+## Beach Resort is a Front End Website to display their hotel rooms and have the option to filter based on room types, no. of guests, room size etc.
+
+## Features:
+> * Built using front end technologies : React and Redux &  CSS.
+> * Application state is maintained in Redux and stored using localStorage.
+> * Created reusable components and are connected to the application  using Connect method  provided by React Redux package.
+> * Connected asynchronous action generated using Redux Middleware called Thunk.
+
+**Packages Used** :  React, Axios, React-Redux, Redux-Thunk, React-Router-DOM, React-Icons.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
